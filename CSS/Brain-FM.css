@@ -1,0 +1,83 @@
+body {
+	margin: 10px;
+	background-color: #471BF5;
+	font-family: arial medium;
+	}
+
+.section-1 {
+	flex-direction: row;
+	display: flex;
+	color: white;
+	align-items: center;
+	margin-bottom: 200px;	
+}
+
+#try-free {
+	padding: 12px 32px;
+	border-radius: 35px;
+	border: 0px;
+	font-weight: bold;
+	background-color: #FAAF00;
+	color: #FFFFFF;
+}
+
+#sessions {
+	padding: 30px;
+	border-radius: 70px;
+	border: 0px;
+	font-weight: bold;
+	background-color: #FAAF00;
+	color: #FFFFFF;
+	font-size: 18;
+	word-wrap: break-word;
+}
+
+a:visited {
+	color: white;
+}
+
+hover {
+	color: #999999;
+}
+
+.section-2 {
+	color: white;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin: 50px;
+}
+
+.section-3 {	
+	padding: 85px;
+	color: white;
+	font-size: 22;
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.section-4 {
+	color: white;
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* margin: 50px 275px */
+}
+
+.image-1 {
+	flex: 0 1 900px;
+}
+
+.patented-tech {
+	flex: 0 1 500px;
+	margin-right: 50px;
+}
+
+.brain-behavior {
+	flex: 0 1 400px;
+
+}
